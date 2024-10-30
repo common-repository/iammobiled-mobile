@@ -1,0 +1,41 @@
+/*
+// This file is part of the IamMobiled Mobile Engine/Themes for WordPress
+// http://iammobiled.com
+//
+// Copyright (c) 2009 IamMobiled.com All rights reserved.
+// http://iammobiled.com
+//
+// Released under the GPL license
+// http://www.opensource.org/licenses/gpl-license.php
+//
+// **********************************************************************
+// This program is distributed in the hope that it will be useful, but
+// WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
+// **********************************************************************
+*/
+
+body {
+	-webkit-text-size-adjust: none;
+}
+.group {
+	padding:10px 15px;
+}
+ul.table.disclosure a,
+ul.table li.disclosure a {
+	background:url(../img/disclosure.png) no-repeat right center;
+	padding:15px;
+}
+ul.table li .title {
+	padding-left:15px;
+	padding-right:15px;
+}
+#site-name a {
+	padding-bottom:16px;
+	padding-top:16px;
+}
+.pagination .next a,
+.pagination .prev a {
+	border-bottom-width:15px;
+	border-top-width:15px;
+}
